@@ -1,0 +1,17 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	TestSword: {
+		DisplayName: Test Sword
+		Tooltip: ""
+	}
+
+	ZazaEquipment: {
+		DisplayName: Zaza Pill
+		Tooltip: "After taking this, u will experience the true ZAZA."
+	}
+	HelloDeady: {
+		DisplayName: Hello Deady
+		Tooltip: "A very scary dead hello kitty plushie. Be careful it might hurt you!"
+	}
+}
